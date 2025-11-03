@@ -10,8 +10,7 @@
 - `Git`, `GitHub`, `Scrum`, `COSMIC` — gestión de proyectos y estimación funcional
 
 ## 📈 Estadísticas
-![Metrics](https://github.com/Franci-343/Franci-343/blob/main/github-metrics.svg)
-ttps://github-readme-stats.vercel.app/api?username=Franci-343&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Franci-343&theme=radical)
 
 ## 📫 Contacto
 - 📧 fa8050386@mail.com
