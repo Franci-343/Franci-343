@@ -1,9 +1,9 @@
 # 👋 Hola, soy Franco
 ![Visitas](https://komarev.com/ghpvc/?username=Franci-343&color=blue&style=flat-square)
 
-🎓 Estudiante de Informática en la UMSA  
-🧠 Apasionado por el lenguaje de programación Java y el desarrollo backend  
-🧪 Explorador constante de nuevas herramientas, metodologías ágiles y automatización
+🎓 Estudiante de Informática en la Universidad Mayor de San Andrés   
+🧠 Apasionado por el lenguaje de programación Java   
+🧪 Explorador constante de nuevas herramientas
 
 ## 💻 Actualmente trabajo con:
 - `Java`, `Servlets`, `JSP`, `Tomcat` — usando **Eclipse IDE for Enterprise Java Developers**
