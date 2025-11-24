@@ -13,6 +13,10 @@
 ## 📈 Estadísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franci-343&layout=compact&theme=radical)
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Franci-343&theme=radical&margin-w=15&margin-h=15&column=7)
+
+
 ## 📫 Contacto
 - 📧 fa8050386@mail.com
 # GRACIAS POR VER MI PERFIL 🤩🤩
