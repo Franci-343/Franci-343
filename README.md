@@ -16,7 +16,8 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Franci-343&theme=radical&margin-w=15&margin-h=15&column=7)
 
-## 📊 Commits Top Bolivia <a href="https://commits.top/bolivia.html" target="_blank"> <img src="https://aktive.tk/bolivia/Franci-343?color=red" alt="Most Active GitHub Users Bolivia" height=25px width=250px/> </a>
+## 📊 Commits Top Bolivia
+[![Most Active GitHub Users Bolivia](https://aktive.tk/bolivia/Franci-343?color=red)](https://commits.top/bolivia.html)
 
 ## 📫 Contacto
 - 📧 fa8050386@mail.com
