@@ -11,10 +11,15 @@
 - `Git`, `GitHub`, `Scrum`, `COSMIC` — gestión de proyectos y estimación funcional
 
 ## 📈 Estadísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franci-343&layout=compact&theme=radical)
+[![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franci-343&show_icons=true&theme=radical)](https://github.com/Franci-343)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franci-343&layout=compact&theme=radical)
+
+![Contribuciones](https://ghchart.rshah.org/Franci-343)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Franci-343&theme=radical&margin-w=15&margin-h=15&column=7)
+[![Followers](https://img.shields.io/github/followers/Franci-343?label=Followers&style=flat-square&color=blue)](https://github.com/Franci-343)
+[![Public repos](https://img.shields.io/github/repo-count/Franci-343?style=flat-square&color=informational)](https://github.com/Franci-343?tab=repositories)
 
 ## 📊 Commits Top Bolivia
 [![Most Active GitHub Users Bolivia](https://aktive.tk/bolivia/Franci-343?color=red)](https://commits.top/bolivia.html)
