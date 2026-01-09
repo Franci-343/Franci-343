@@ -34,10 +34,6 @@
 
 ![Contribuciones](https://ghchart.rshah.org/Franci-343)
 
-## 🏆 GitHub Trophies
-[![Followers](https://img.shields.io/github/followers/Franci-343?label=Followers&style=flat-square&color=blue)](https://github.com/Franci-343)
-[![Public repos](https://img.shields.io/github/repo-count/Franci-343?style=flat-square&color=informational)](https://github.com/Franci-343?tab=repositories)
-
 <p align="center">
   <a href="https://github.com/Franci-343">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Franci-343&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -51,6 +47,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Franci-343&theme=dark&hide_border=true"/>
 </p>
 
+## 🏆 GitHub Trophies
+[![Followers](https://img.shields.io/github/followers/Franci-343?label=Followers&style=flat-square&color=blue)](https://github.com/Franci-343)
+[![Public repos](https://img.shields.io/github/repo-count/Franci-343?style=flat-square&color=informational)](https://github.com/Franci-343?tab=repositories)
 
 ## 📫 Contacto
 - 📧 fa8050386@mail.com
